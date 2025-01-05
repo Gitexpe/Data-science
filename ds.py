@@ -40,4 +40,4 @@ plt.hist(dataframe["rate"],bins=15)
 plt.title("rate distribution")
 plt.show(block=True)
 plt.close()
-
+# result : Most listed restaurants are rated between 3.7 and 4.1, indicating good quality with room for improvement to achieve excellence.
